@@ -9,7 +9,6 @@
       - [4.1 curl: (7) Failed to connect to raw.githubusercontent.com port 443: Connection refused](#41-curl-7-failed-to-connect-to-rawgithubusercontentcom-port-443-connection-refused)
       - [4.2 unavailable: error executing an http request: libcurl code 35 meaning 'ssl connect error', error details: server aborted the ssl handshake](#42-unavailable-error-executing-an-http-request-libcurl-code-35-meaning-ssl-connect-error-error-details-server-aborted-the-ssl-handshake)
     - [5. 修改](#5-修改)
-# Macintosh
 
 ### 1.使NTFS格式的硬盘（DATA）可写
 
